@@ -1,3 +1,7 @@
+1. Cars CRUD operations - show/update/delete/buy.
+2. Cars CRUD with NgRx.
+3. JSON server.
+
 # AngularFormJson
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
